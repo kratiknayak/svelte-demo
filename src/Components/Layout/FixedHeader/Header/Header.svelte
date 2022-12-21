@@ -16,7 +16,6 @@
     width: 100%;
     height: 75px;
     background: white;
-    /* margin: 0rem 0 0 1rem; */
   }
 </style>
 
