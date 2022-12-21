@@ -15,17 +15,17 @@
 
 <style>
   .category-row{
-    display: flex;
-    justify-content:space-between;
-    max-height: 100px;
-    margin: 3rem 0;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
+    margin: 3rem 0; 
   }
   .category{
     cursor: pointer;
     background-color: #eff1f3;
     display: flex;
     align-items: center;
-    padding: 0% 3% 0% 0%;
+    /* padding: 0% 3% 0% 0%; */
     border-radius: 8px;
     font-weight: 700;
   }

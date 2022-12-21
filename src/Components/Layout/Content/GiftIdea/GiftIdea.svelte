@@ -19,8 +19,9 @@
 
 <style>
   .giftIdea-row{
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr));
   }
   .giftIdea{
     cursor: pointer;
