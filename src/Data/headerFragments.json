@@ -1,0 +1,15 @@
+{
+  "data": [{
+    "title": "Une question ?",
+    "icon":"question-mark.svg"
+  },{
+    "title": "Mon magasin",
+    "icon":"market.svg"
+  },{
+    "title": "Mon compte",
+    "icon":"user.svg"
+  },{
+    "title": "Mon panier",
+    "icon":"cart.svg"
+  }]
+}

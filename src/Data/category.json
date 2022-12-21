@@ -1,0 +1,21 @@
+{
+  "data": [{
+    "title": "Femme",
+    "image":"https://contents.mediadecathlon.com/s913162/k$764668fab39131acc2f54c0176c7cb12/femme.png/femme.png?format=auto&f=800x0"
+  },{
+    "title": "Homme",
+    "image":"https://contents.mediadecathlon.com/s913171/k$7db7b65227f34b97baaef23ee97af8d3/homme.png/homme.png?format=auto&f=800x0"
+  },{
+    "title": "Enfant",
+    "image":"https://contents.mediadecathlon.com/s913160/k$ee2377ca2252c0eca35fc04b10bf10b7/enfant.png/enfant.png?format=auto&f=800x0"
+  },{
+    "title": "Equipement",
+    "image":"https://contents.mediadecathlon.com/s962704/k$cf553da02c182c3dbc14f6dfbb9cbea8/genre%20equipement%20tapiscourse.png?format=auto/equipement.png?format=auto&f=800x0"
+  },{
+    "title": "Ecodesign",
+    "image":"https://contents.mediadecathlon.com/s864176/k$a944d6dddc60a95ab9b4af70070a4820/eco%20ok%20blanc.png?format=auto/ecodesign.png?format=auto&f=800x0"
+  },{
+    "title": "Bons plans",
+    "image":"https://contents.mediadecathlon.com/s865853/k$baf3d452490822cf1e25c9a41047405d/percent.png?format=auto/bons-plans.png?format=auto&f=800x0"
+  }]
+}
