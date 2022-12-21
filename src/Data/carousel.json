@@ -1,0 +1,27 @@
+{
+  "data": [{
+    "title": "Le bon plan du jour",
+    "buttonText":"Ouvrir la case n°21",
+    "image":"https://contents.mediadecathlon.com/s971056/k$6da6ecc8a341222837a9adcfd8e32284/bons-plans.jpg?format=auto&f=2400x0"
+  },{
+    "title": "Offrir du sport: le départ d'une grande histoire",
+    "buttonText":"Voir les idées cadeaux",
+    "image":"https://contents.mediadecathlon.com/s963384/k$61f914a7086bc4aec7778efdfd9cf5e9/.jpg?format=auto&f=2400x0"
+  },{
+    "title": "Tous en piste !",
+    "buttonText":"Voir la sélection",
+    "image":"https://contents.mediadecathlon.com/s970341/k$26cad8018991f169641ed9e8f1d5a7f8/premiers-froids-ski.jpg?format=auto&f=2400x0"
+  },{
+    "title": "Du 1er au 25 Décembre",
+    "buttonText":"En savoir plus",
+    "image":"https://contents.mediadecathlon.com/s967915/k$29def6ab917ef9541299c05d448c90cb/.jpg?format=auto&f=2400x0"
+  },{
+    "title": "",
+    "buttonText":"Voir le replay",
+    "image":"https://contents.mediadecathlon.com/s968574/k$2abee61bfd4e45351c5f20098ceeb4cd/replay-live-tir-laser.jpg?format=auto&f=2400x0"
+  },{
+    "title": "",
+    "buttonText":"Voir la carte cadeau",
+    "image":"https://contents.mediadecathlon.com/s968239/k$1cb206edb001499089f54356088aa614/financement.jpg?format=auto&f=2400x0"
+  }]
+}

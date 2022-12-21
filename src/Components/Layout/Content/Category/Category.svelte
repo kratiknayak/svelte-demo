@@ -1,6 +1,6 @@
 <script>
-  import category from '../../../Data/category.json';
-  import { lazyLoad } from '../../../Utils/lazyLoad';
+  import category from '../../../../Data/category.json';
+  import { lazyLoad } from '../../../../Utils/lazyLoad';
 </script>
 <div class="category-row">
   {#each category?.data as {title,image} }
@@ -18,6 +18,7 @@
     display: flex;
     justify-content:space-between;
     max-height: 100px;
+    margin: 3rem 0;
   }
   .category{
     cursor: pointer;
@@ -26,6 +27,7 @@
     align-items: center;
     padding: 0% 3% 0% 0%;
     border-radius: 8px;
+    font-weight: 700;
   }
   .img-holder{
     width: 5.5rem;

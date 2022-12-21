@@ -1,1 +1,0 @@
-<input style:flex='5' type="search" placeholder="Rechercher un produit, un sport ou une référence" aria-label="Rechercher un produit, un sport ou une référence">

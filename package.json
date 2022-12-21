@@ -14,5 +14,8 @@
   "scripts": {
     "build": "cross-env NODE_ENV=production webpack",
     "dev": "webpack serve --static public"
+  },
+  "dependencies": {
+    "siema": "^1.5.1"
   }
 }

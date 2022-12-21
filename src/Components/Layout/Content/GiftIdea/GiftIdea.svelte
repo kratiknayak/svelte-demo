@@ -1,6 +1,6 @@
 <script>
-  import giftIdea from '../../../Data/giftIdea.json';
-  import { lazyLoad } from '../../../Utils/lazyLoad';
+  import giftIdea from '../../../../Data/giftIdea.json';
+  import { lazyLoad } from '../../../../Utils/lazyLoad';
 </script>
 
 <div>
@@ -28,7 +28,7 @@
     flex-direction: column;
     align-items: left;
     border-radius: 8px;
-    min-width: calc(100% / 6);
+    /* min-width: calc(100% / 6); */
   }
   .img-holder{
     min-width: 9rem;

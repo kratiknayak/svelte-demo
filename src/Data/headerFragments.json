@@ -1,15 +1,19 @@
 {
   "data": [{
     "title": "Une question ?",
+    "identifier": "question",
     "icon":"question-mark.svg"
   },{
     "title": "Mon magasin",
+    "identifier": "market",
     "icon":"market.svg"
   },{
     "title": "Mon compte",
+    "identifier": "user",
     "icon":"user.svg"
   },{
     "title": "Mon panier",
+    "identifier":"cart",
     "icon":"cart.svg"
   }]
 }

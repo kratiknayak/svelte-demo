@@ -1,30 +1,30 @@
 {
   "data": [{
     "title": "Tous les sports",
-    "key":"Tous_les_sports"
+    "identifier":"Tous_les_sports"
   },{
     "title": "Femme",
-    "key":"Femme"
+    "identifier":"Femme"
   },{
     "title": "Homme",
-    "key":"Homme"
+    "identifier":"Homme"
   },{
     "title": "Enfant",
-    "key":"Enfant"
+    "identifier":"Enfant"
   },{
     "title": "Équipement",
-    "key":"Équipement"
+    "identifier":"Équipement"
   },{
     "title": "Idée cadeau Noël",
-    "key":"Idée_cadeau_Noël"
+    "identifier":"Idée_cadeau_Noël"
   },{
     "title": "Seconde vie",
-    "key":"Seconde_vie"
+    "identifier":"Seconde_vie"
   },{
     "title": "Promotions",
-    "key":"Promotions"
+    "identifier":"Promotions"
   },{
     "title": "Services",
-    "key":"Services"
+    "identifier":"Services"
   }]
 }
