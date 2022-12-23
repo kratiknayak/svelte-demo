@@ -71,6 +71,5 @@
     }
   }
 
-  /* Extra big screen devices (1200px and above) */
   
 </style>

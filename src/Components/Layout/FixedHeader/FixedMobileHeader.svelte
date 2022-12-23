@@ -1,6 +1,5 @@
 <script>
   import MobileHeader from "./MobileHeader/MobileHeader.svelte";
-  import MobileMegaMenu from "./MobileHeader/MobileMegaMenu/MobileMegaMenu.svelte";
   import SearchBar from "./MobileHeader/SearchBar/SearchBar.svelte";
 </script>
 
