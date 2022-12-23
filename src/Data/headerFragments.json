@@ -15,5 +15,14 @@
     "title": "Mon panier",
     "identifier":"cart",
     "icon":"cart.svg"
+  }],
+  "mobileData": [{
+    "title": "Mon compte",
+    "identifier": "user",
+    "icon":"user.svg"
+  },{
+    "title": "Mon panier",
+    "identifier":"cart",
+    "icon":"cart.svg"
   }]
 }

@@ -1,12 +1,10 @@
 <script>
-  import SearchBar from "./SearchBar/SearchBar.svelte";
-  import HeaderFragments from "./HeaderFragments/HeaderFragments.svelte";
   import Banner from "./Banner/Banner.svelte";
+  import HeaderFragments from "./HeaderFragments/HeaderFragments.svelte";
 </script>
 
 <div class='header-row'>
   <Banner></Banner>
-  <SearchBar></SearchBar>
   <HeaderFragments></HeaderFragments>
 </div>
 
@@ -14,7 +12,7 @@
   .header-row{
     display: flex;
     width: 100%;
-    height: 75px;
+    height: 60px;
     background: white;
   }
 </style>

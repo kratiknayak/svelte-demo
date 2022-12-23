@@ -1,10 +1,11 @@
-<div class="fixed-header">
-		<slot name="header">
-      <span>Couldn't load header</span>
-		</slot>
-		<slot name="megaMenu">
-      <span>Couldn't load mega menu</span>
-		</slot>
+<script>
+  import Header from "./Header/Header.svelte";
+  import MegaMenu from "./MegaMenu/MegaMenu.svelte";
+</script>
+
+<div class="fixed-header" >
+    <Header></Header>
+		<MegaMenu></MegaMenu>
 </div>
 
 <style>

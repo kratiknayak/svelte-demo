@@ -2,7 +2,6 @@
    import carousel from '../../../../Data/carousel.json';
   import { lazyLoad } from '../../../../Utils/lazyLoad';
   import ImageContainer from './ImageContainer/ImageContainer.svelte';
-   console.log(carousel.data)
 </script>
 
  
