@@ -51,4 +51,27 @@
     padding: 2%;
     cursor: pointer;
   }
+  @media only screen and (max-width: 595px) {}
+
+  /* Small screen devices (600px and above) */
+  @media only screen and (min-width: 600px) and (max-width:767px) {
+   
+  }
+
+  /* Medium screen devices (768px and above) */
+  @media only screen and (min-width: 768px)  and (max-width:888px) {
+    /* .navbar-list{
+      display: none;
+    } */
+  }
+
+  /* Big screen devices (889px and above) */
+  @media only screen and (min-width: 889px) and (max-width:1999px) {
+  
+  }
+
+  /* Extra big screen devices (1200px and above) */
+  @media only screen and (min-width: 1200px) {
+
+  }
 </style>

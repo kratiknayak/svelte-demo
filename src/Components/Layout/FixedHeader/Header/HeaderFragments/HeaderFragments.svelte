@@ -46,7 +46,6 @@
     padding: 0px 10px;
     text-transform: uppercase;
   }
-  @media only screen and (max-width: 595px) {}
 
   /* Small screen devices (600px and above) */
   @media only screen and (min-width: 600px) and (max-width:767px) {
@@ -73,7 +72,5 @@
   }
 
   /* Extra big screen devices (1200px and above) */
-  @media only screen and (min-width: 1200px) {
-
-  }
+  
 </style>

@@ -14,11 +14,13 @@
           <span>{title}</span>
         </div>
       {/each}
-    </div>
-    <!-- svelte-ignore a11y-click-events-have-key-events -->
-    <div on:click={handleMobileIconClick} class={`mobile-icon active`}>
+       <!-- svelte-ignore a11y-click-events-have-key-events -->
+      <div on:click={handleMobileIconClick} class={`mobile-icon active`}>
           <div class="middle-line"></div>
+      </div>
     </div>
+   
+    
     {:else}
       <div class="mobile-hamberger-icon">
       <!-- svelte-ignore a11y-click-events-have-key-events -->
@@ -32,7 +34,7 @@
   .navbar-list{
     display: flex;
     position: fixed;
-    width: 90%;
+    width: 100%;
     z-index: 20;
     background: #eff1f3;
     height: 100%;
@@ -99,8 +101,8 @@
   .mobile-icon.active{
     height: 25px;
     position: fixed;
-    right: 10px;
-    top: 10px;
+    right: 20px;
+    top: 20px;
     color: black;
   }
   .mobile-icon:hover:before,

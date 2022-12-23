@@ -5,7 +5,7 @@
 
 <div class="fixed-header" >
     <Header></Header>
-		<!-- <MegaMenu></MegaMenu> -->
+		<MegaMenu></MegaMenu>
 </div>
 
 <style>

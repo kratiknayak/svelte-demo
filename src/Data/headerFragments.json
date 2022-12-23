@@ -16,7 +16,12 @@
     "identifier":"cart",
     "icon":"cart.svg"
   }],
-  "mobileData": [{
+  "mobileData": [
+    {
+    "title": "Mon magasin",
+    "identifier": "market",
+    "icon":"market.svg"
+  },{
     "title": "Mon compte",
     "identifier": "user",
     "icon":"user.svg"
