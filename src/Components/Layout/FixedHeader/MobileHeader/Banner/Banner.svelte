@@ -9,10 +9,12 @@
 
 <style>
   .banner{
-    flex:1;
+    flex:4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
   img{
     height:100%;
-    padding-left: 1rem;
   }
 </style>

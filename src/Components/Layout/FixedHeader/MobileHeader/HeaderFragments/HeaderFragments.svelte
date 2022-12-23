@@ -28,7 +28,8 @@
   }
   .headerFragments-row{
     display: flex;
-    flex:2;
+    flex:1;
+    justify-content: right;
   }
   .headerFragment{
     display: flex;

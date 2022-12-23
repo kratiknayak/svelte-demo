@@ -1,8 +1,7 @@
 <script>
   import MobileHeader from "./MobileHeader/MobileHeader.svelte";
   import MobileMegaMenu from "./MobileHeader/MobileMegaMenu/MobileMegaMenu.svelte";
-  import SearchBar from "./Header/SearchBar/SearchBar.svelte";
-  console.log('test')
+  import SearchBar from "./MobileHeader/SearchBar/SearchBar.svelte";
 </script>
 
 <div class="fixed-mobile-header" >
@@ -16,6 +15,7 @@
     top: 0;
     border-bottom: 1px solid #bcbcbc6b;
     z-index: 10;
+    background: white;
   }
 
 </style>

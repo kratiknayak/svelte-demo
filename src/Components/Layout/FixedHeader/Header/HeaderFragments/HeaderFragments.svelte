@@ -16,7 +16,7 @@
       <span>
         <img  src={icon} alt={title}>
       </span>
-      <span>{title}</span>
+      <span class="title">{title}</span>
     </div>
   {/each}
 </div>
@@ -34,6 +34,7 @@
   .headerFragments-row{
     display: flex;
     flex:2;
+    justify-content: right;
   }
   .headerFragment{
     display: flex;
@@ -41,7 +42,38 @@
     justify-content: center;
     align-items: center;
     font-weight: 300;
-    font-size: small;
+    font-size: 10px;
     padding: 0px 10px;
+    text-transform: uppercase;
+  }
+  @media only screen and (max-width: 595px) {}
+
+  /* Small screen devices (600px and above) */
+  @media only screen and (min-width: 600px) and (max-width:767px) {
+    .title{
+      display: none;
+    }
+  }
+
+  /* Medium screen devices (768px and above) */
+  @media only screen and (min-width: 768px)  and (max-width:888px) {
+    .title{
+      display: none;
+    }
+  }
+
+  /* Big screen devices (889px and above) */
+  @media only screen and (min-width: 889px) and (max-width:1999px) {
+    .title{
+      font-size:8px ;
+    }
+    .headerFragments-row{
+      flex:4;
+    }
+  }
+
+  /* Extra big screen devices (1200px and above) */
+  @media only screen and (min-width: 1200px) {
+
   }
 </style>

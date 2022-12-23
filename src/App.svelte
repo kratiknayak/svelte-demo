@@ -12,7 +12,6 @@
 	$: innerWidth = innerWidth
   $: innerHeight = innerWidth
 </script>
-
 <svelte:window bind:innerWidth bind:innerHeight />
 {#if innerWidth < 767}
 	<FixedMobileHeader/>

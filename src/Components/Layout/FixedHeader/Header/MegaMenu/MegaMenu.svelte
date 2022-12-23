@@ -1,6 +1,5 @@
 <script>
-  import { onMount } from 'svelte';
-  import megaMenu from '../../../../Data/megaMenu.json';
+  import megaMenu from '../../../../../Data/megaMenu.json';
   let activeHover = ''
 </script>
 

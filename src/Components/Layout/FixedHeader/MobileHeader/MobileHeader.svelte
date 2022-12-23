@@ -1,9 +1,11 @@
 <script>
   import Banner from "./Banner/Banner.svelte";
   import HeaderFragments from "./HeaderFragments/HeaderFragments.svelte";
+  import MobileMegaMenu from "./MobileMegaMenu/MobileMegaMenu.svelte";
 </script>
 
 <div class='header-row'>
+  <MobileMegaMenu/>
   <Banner></Banner>
   <HeaderFragments></HeaderFragments>
 </div>
